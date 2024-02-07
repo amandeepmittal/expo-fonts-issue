@@ -6,7 +6,8 @@
 ## Preview
 
 **Android**
-![android.png]
+
+![android](/android.png)
 
 **iOS**
-![ios.png]
+![ios](/ios.png)
